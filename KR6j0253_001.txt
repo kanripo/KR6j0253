@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:51.536463
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:41
 #+TITLE: 聖觀自在菩薩一百八名經
 #+PROPERTY: CBETA_ID T20n1054
 #+PROPERTY: ID KR6j0253
